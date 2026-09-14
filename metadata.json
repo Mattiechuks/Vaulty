@@ -1,0 +1,8 @@
+{
+  "name": "Vaultly - Discount Gift Card Marketplace",
+  "description": "Buy and sell authentic digital gift cards below face value with instant delivery and an interactive digital wallet vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
